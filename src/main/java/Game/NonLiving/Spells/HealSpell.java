@@ -1,0 +1,12 @@
+package Game.NonLiving.Spells;
+
+public class HealSpell extends Spell{
+
+
+    int health;
+
+    public HealSpell(String name, int health){
+        super(name);
+        this.health = health;
+    }
+}
