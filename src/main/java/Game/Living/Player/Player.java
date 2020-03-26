@@ -47,7 +47,7 @@ public class Player implements IWeapon{
 
     public void attack(Enemy enemy) {
         if(weapon != null) {
-            enemy.getHealthPoints() = enemy.getHealthPoints() - weapon.getDamage();
+            enemy.takeDamage(weapon.getDamage());
         }
     }
 }

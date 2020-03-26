@@ -8,10 +8,10 @@ public class Cleric extends Player implements IHeal {
     }
 
     public void healSelf() {
-        getHealthPoints() = getHealthPoints() + 20;
+        setHealthPoints(getHealthPoints() + 20);
     }
 
     public void healthPlayer(Player player) {
-        player.getHealthPoints() = player.getHealthPoints() + 20;
+        player.setHealthPoints(player.getHealthPoints() + 20);
     }
 }

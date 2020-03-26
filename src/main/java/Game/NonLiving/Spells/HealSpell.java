@@ -9,4 +9,12 @@ public class HealSpell extends Spell{
         super(name);
         this.health = health;
     }
+
+    public int getHealth() {
+        return health;
+    }
+
+    public void setHealth(int health) {
+        this.health = health;
+    }
 }

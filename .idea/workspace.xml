@@ -2,25 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5cbb724-f246-4797-b68a-0673635acc71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Living/Enemy/DragonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Living/Enemy/OgreTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Living/Enemy/OrcTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Living/Enemy/TrollTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Living/Player/BarbarianTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Living/Player/DwarfTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Living/Player/FighterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Living/Player/KnightTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Living/Player/Mage/WarlockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Living/Player/Mage/WizardTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/NonLiving/Items/HealthPotionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/NonLiving/Items/HerbsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/NonLiving/Spells/AttackSpellTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/NonLiving/Spells/HealSpellTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/NonLiving/Weapons/AxeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/NonLiving/Weapons/ClubTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/NonLiving/Weapons/SwordTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Game/Living/Player/Cleric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Game/Living/Player/Cleric.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Game/Living/Player/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Game/Living/Player/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Game/NonLiving/Items/HealthPotion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Game/NonLiving/Items/HealthPotion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Game/NonLiving/Items/Herbs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Game/NonLiving/Items/Herbs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Game/NonLiving/Spells/AttackSpell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Game/NonLiving/Spells/AttackSpell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Game/NonLiving/Spells/HealSpell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Game/NonLiving/Spells/HealSpell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Game/NonLiving/Weapons/Axe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Game/NonLiving/Weapons/Axe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Game/NonLiving/Weapons/Club.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Game/NonLiving/Weapons/Club.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Game/NonLiving/Weapons/Sword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Game/NonLiving/Weapons/Sword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Living/Enemy/DragonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Living/Enemy/DragonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Living/Enemy/OgreTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Living/Enemy/OgreTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Living/Enemy/OrcTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Living/Enemy/OrcTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Living/Enemy/TrollTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Living/Enemy/TrollTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Living/Player/BarbarianTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Living/Player/BarbarianTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Living/Player/DwarfTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Living/Player/DwarfTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Living/Player/FighterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Living/Player/FighterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Living/Player/KnightTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Living/Player/KnightTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Living/Player/Mage/WarlockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Living/Player/Mage/WarlockTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Living/Player/Mage/WizardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Living/Player/Mage/WizardTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/NonLiving/Items/HealthPotionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/NonLiving/Items/HealthPotionTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +65,92 @@
       <recent name="Living.Player" />
     </key>
   </component>
+  <component name="RunManager" selected="JUnit.HerbsTest">
+    <configuration name="HealthPotionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lizzie_and_Kev_Adventure_Game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NonLiving.Items.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NonLiving.Items" />
+      <option name="MAIN_CLASS_NAME" value="NonLiving.Items.HealthPotionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HerbsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lizzie_and_Kev_Adventure_Game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NonLiving.Items.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NonLiving.Items" />
+      <option name="MAIN_CLASS_NAME" value="NonLiving.Items.HerbsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KnightTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lizzie_and_Kev_Adventure_Game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Living.Player.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Living.Player" />
+      <option name="MAIN_CLASS_NAME" value="Living.Player.KnightTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WarlockTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lizzie_and_Kev_Adventure_Game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Living.Player.Mage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Living.Player.Mage" />
+      <option name="MAIN_CLASS_NAME" value="Living.Player.Mage.WarlockTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WizardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lizzie_and_Kev_Adventure_Game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Living.Player.Mage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Living.Player.Mage" />
+      <option name="MAIN_CLASS_NAME" value="Living.Player.Mage.WizardTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HerbsTest" />
+        <item itemvalue="JUnit.HealthPotionTest" />
+        <item itemvalue="JUnit.WizardTest" />
+        <item itemvalue="JUnit.WarlockTest" />
+        <item itemvalue="JUnit.KnightTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -80,14 +169,47 @@
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state x="131" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.806@0.23.1440.806" timestamp="1585221370081" />
-    <state x="479" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1585224666577">
-      <screen x="0" y="23" width="1440" height="806" />
+    <state x="479" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1585236254990">
+      <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="479" y="146" key="#com.intellij.ide.util.MemberChooser/0.23.1440.806@0.23.1440.806" timestamp="1585224666577" />
+    <state x="479" y="146" key="#com.intellij.ide.util.MemberChooser/0.23.1440.808@0.23.1440.808" timestamp="1585236254990" />
     <state x="433" y="289" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585228826445">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state x="433" y="289" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.804@0.23.1440.804" timestamp="1585228826445" />
+    <state width="1082" height="196" key="GridCell.Tab.0.bottom" timestamp="1585236544353">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1082" height="196" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1585236544353" />
+    <state width="1082" height="196" key="GridCell.Tab.0.center" timestamp="1585236544352">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1082" height="196" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1585236544352" />
+    <state width="1082" height="196" key="GridCell.Tab.0.left" timestamp="1585236544351">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1082" height="196" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1585236544351" />
+    <state width="1082" height="196" key="GridCell.Tab.0.right" timestamp="1585236544352">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1082" height="196" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1585236544352" />
+    <state width="1082" height="254" key="GridCell.Tab.1.bottom" timestamp="1585235664358">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1082" height="254" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1585235664358" />
+    <state width="1082" height="254" key="GridCell.Tab.1.center" timestamp="1585235664357">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1082" height="254" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1585235664357" />
+    <state width="1082" height="254" key="GridCell.Tab.1.left" timestamp="1585235664357">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1082" height="254" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1585235664357" />
+    <state width="1082" height="254" key="GridCell.Tab.1.right" timestamp="1585235664358">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1082" height="254" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1585235664358" />
     <state x="204" y="85" key="Maven.ArtifactSearchDialog" timestamp="1585229191826">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
