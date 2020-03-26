@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5cbb724-f246-4797-b68a-0673635acc71" name="Default Changelist" comment="" />
+    <list default="true" id="f5cbb724-f246-4797-b68a-0673635acc71" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Living/Enemy/DragonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Living/Enemy/OgreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Living/Enemy/OrcTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Living/Enemy/TrollTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Living/Player/BarbarianTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Living/Player/DwarfTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Living/Player/FighterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Living/Player/KnightTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Living/Player/Mage/WarlockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Living/Player/Mage/WizardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NonLiving/Items/HealthPotionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NonLiving/Items/HerbsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NonLiving/Spells/AttackSpellTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NonLiving/Spells/HealSpellTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NonLiving/Weapons/AxeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NonLiving/Weapons/ClubTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NonLiving/Weapons/SwordTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +35,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,6 +46,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1ZfCwCRhvret3SIfVhOFMhVfz7e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,7 +54,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Living.Player" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -54,5 +84,13 @@
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state x="479" y="146" key="#com.intellij.ide.util.MemberChooser/0.23.1440.806@0.23.1440.806" timestamp="1585224666577" />
+    <state x="433" y="289" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585228826445">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="433" y="289" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.804@0.23.1440.804" timestamp="1585228826445" />
+    <state x="204" y="85" key="Maven.ArtifactSearchDialog" timestamp="1585229191826">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="204" y="85" key="Maven.ArtifactSearchDialog/0.23.1440.804@0.23.1440.804" timestamp="1585229191826" />
   </component>
 </project>
